@@ -47,3 +47,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupaliprajapati&show_icons=true&locale=en" alt="rupaliprajapati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupaliprajapati&" alt="rupaliprajapati" /></p>
+
+## GSSOC(24) Badge 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  
+  
+</div>
